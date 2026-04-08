@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "drizzle-orm": "^0.45.2",
+    "readline-sync": "^1.4.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8"
+  }
+}
